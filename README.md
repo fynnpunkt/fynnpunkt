@@ -1,4 +1,7 @@
 <hr>
 <p align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=fynnpunkt&theme=dark&hide_border=true&border_radius=10&locale=de&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a></p>
-<hr>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fynnpunkt&layout=compact&theme=github_dark&hide_border=true&langs_count=20">
+<img src="https://github-readme-stats.vercel.app/api?username=fynnpunkt&\&&hide_border=true&show_icons=true&theme=github_dark&count_private=true\&rank_icon=percentile&include_all_commits=true\&hide=contribs&\&show=prs_merged_percentage&">
+<img src="https://streak-stats.demolab.com?user=fynnpunkt&theme=github-dark-blue&hide_border=true">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=fynnpunkt&theme=github_dark&layout=compact&hide_border=true">
+</p><hr>
