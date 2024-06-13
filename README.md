@@ -8,6 +8,11 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-000?J&logo=GitHub&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-000?J&logo=git&logoColor=ffffff)
 ![Debian](https://img.shields.io/badge/-Debian-000?J&logo=debian&logoColor=ffffff)
+![PHP](https://img.shields.io/badge/-PHP-000?J&logo=PHP&logoColor=ffffff)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?J&logo=tailwindcss&logoColor=ffffff)
+![Figma](https://img.shields.io/badge/-Figma-000?J&logo=Figma&logoColor=ffffff)
+![JetBrains](https://img.shields.io/badge/-JetBrains-000?J&logo=JetBrains&logoColor=ffffff)
+![PhpStorm](https://img.shields.io/badge/-PhpStorm-000?J&logo=PhpStorm&logoColor=ffffff)
 
 <hr>
 <p align="center">  
