@@ -12,7 +12,7 @@
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?J&logo=tailwindcss&logoColor=38bdf8)
 ![Figma](https://img.shields.io/badge/-Figma-000?J&logo=Figma&logoColor=9d56f7)
 ![JetBrains](https://img.shields.io/badge/-JetBrains-000?J&logo=JetBrains&logoColor=ffffff)
-![PhpStorm](https://img.shields.io/badge/-PhpStorm-000?J&logo=PhpStorm&logoColor=a845e9)
+![PhpStorm](https://img.shields.io/badge/-PhpStorm-000?J&logo=PhpStorm&logoColor=ffffff)
 
 <hr>
 <p align="center">  
