@@ -1,4 +1,4 @@
-![Skils](https://skillicons.dev/icons?i=js,html,css,php,java,tailwind,nginx,figma,git,github,idea,phpstorm,vscode,linux,windows,cloudflare)
+![Skils](https://skillicons.dev/icons?i=js,html,css,php,java,tailwind,nginx,figma,git,github,idea,phpstorm,vscode,linux,windows,cloudflare&perline=50)
 
 <hr>
 <p align="center">  
