@@ -1,4 +1,4 @@
-[![Skils]([https://skillicons.dev/icons?i=js,html,css,java,figma,php,git,github,idea,phpstorm,vscode,linux,windows,nginx,tailwind](https://skillicons.dev/icons?i=js,html,css,php,java,tailwind,nginx,figma,git,github,idea,phpstorm,vscode,linux,windows,cloudflare)]
+[![Skils]([(https://skillicons.dev/icons?i=js,html,css,php,java,tailwind,nginx,figma,git,github,idea,phpstorm,vscode,linux,windows,cloudflare)]
 
 <hr>
 <p align="center">  
