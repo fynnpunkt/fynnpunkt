@@ -2,8 +2,8 @@
 
 <hr>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=fynnpunkt&\&&hide_border=true&show_icons=true&theme=dark&count_private=true\&rank_icon=percentile&include_all_commits=true\&hide=contribs&\&show=prs_merged_percentage&">
-<img src="https://streak-stats.demolab.com?user=fynnpunkt&theme=dark&hide_border=true">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=fynnpunkt&theme=dark&hide_border=true">
+<img src="https://streak-stats.demolab.com?user=fynnpunkt&theme=dark&hide_border=true" width="495px" height="195px">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=fynnpunkt&theme=dark&hide_border=true" width="495px" height="195px">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fynnpunkt&bg_color=151515&color=ffffff&line=ca7305&point=ca7305&hide_border=true">
   </p>
 <hr>
