@@ -19,10 +19,10 @@
 ![Operating Systems](https://skillicons.dev/icons?i=windows,linux,debian,apple&perline=50)
 
 ### Tools
-![Libaries](https://skillicons.dev/icons?i=nginx,figma,git,github,idea,phpstorm,webstorm,vscode,cloudflare,mysql,npm,nodejs&perline=50)
+![Libaries](https://skillicons.dev/icons?i=nginx,figma,git,github,idea,phpstorm,webstorm,vscode,cloudflare,mysql,npm&perline=50)
 
-### Libaries
-![Tools](https://skillicons.dev/icons?i=tailwind&perline=50)
+### Libaries & Frameworks
+![Tools](https://skillicons.dev/icons?i=tailwind,nodejs&perline=50)
 
 ### Programming Languages
 ![Programming Languages](https://skillicons.dev/icons?i=js,html,css,php,java,mysql&perline=50)
