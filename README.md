@@ -1,6 +1,6 @@
 <div align="center">
 
-![Streak](https://github-readme-activity-graph.vercel.app/graph?username=fynnpunkt&bg_color=151515&color=ffffff&line=ca7305&point=ca7305&hide_border=true&hide_title=true&days=31&grid)
+![Streak](https://github-readme-activity-graph.vercel.app/graph?username=fynnpunkt&bg_color=151515&color=ffffff&line=ca7305&point=ca7305&hide_border=true&hide_title=true&days=90&grid)
 
 </div>
 
