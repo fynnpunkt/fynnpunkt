@@ -3,7 +3,7 @@
 ![Streak](https://github-readme-activity-graph.vercel.app/graph?username=fynnpunkt&bg_color=151515&color=ffffff&line=ca7305&point=ca7305&hide_border=true&hide_title=true&days=90&grid)
 
 </div>
-
+ 
 <details>
   <summary style="font-weight: bolder">GitHub Streak</summary>
   <img align="center" src="https://streak-stats.demolab.com?user=fynnpunkt&theme=dark&hide_border=true" />
