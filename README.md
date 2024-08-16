@@ -19,7 +19,7 @@
 # 👨🏻‍💻 Tools:
 
 
-![Libaries](https://skillicons.dev/icons?i=nginx,figma,git,github,idea,phpstorm,webstorm,vscode,cloudflare,mysql,npm&perline=50)
+![Libaries](https://skillicons.dev/icons?i=nginx,figma,git,github,idea,phpstorm,webstorm,vscode,cloudflare,mysql,npm&perline=50&theme=dark)
 
 
 ---
@@ -28,7 +28,7 @@
 # 👨🏻‍💻 Libaries & Frameworks:
 
 
-![Tools](https://skillicons.dev/icons?i=tailwind,nodejs&perline=50)
+![Tools](https://skillicons.dev/icons?i=tailwind,nodejs,jquery&perline=50)
 
 
 ---
