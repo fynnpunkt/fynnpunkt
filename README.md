@@ -1,12 +1,16 @@
 <div align="center">
-# WakaTime 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=fynnpunkt&theme=dark&hide_border=true" />
+
+
+# ⌚ WakaTime:
+
+![Operating Systems](https://github-readme-stats.vercel.app/api/wakatime?username=fynnpunkt&theme=dark&hide_border=true)
+
 
 
 ---
 
 
-# 👨🏻‍💻 Operating Systems:
+# 💻 Operating Systems:
 
 
 ![Operating Systems](https://skillicons.dev/icons?i=windows,linux,debian,apple&perline=50)
@@ -15,7 +19,7 @@
 ---
 
 
-# 👨🏻‍💻 Tools:
+# 👨‍🔧 Tools:
 
 
 ![Libaries](https://skillicons.dev/icons?i=nginx,figma,git,github,idea,phpstorm,webstorm,vscode,cloudflare,mysql,npm&perline=50&theme=dark)
