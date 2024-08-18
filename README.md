@@ -1,5 +1,5 @@
 <div align="center">
-  <summary style="font-weight: bolder">WakaTime Stats</summary>
+# WakaTime 
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=fynnpunkt&theme=dark&hide_border=true" />
 
 
