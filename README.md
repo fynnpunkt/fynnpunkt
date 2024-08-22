@@ -3,8 +3,8 @@
 
 # ⌚ WakaTime:
 
-![Operating Systems](https://github-readme-stats.vercel.app/api/wakatime?username=fynnpunkt&theme=dark&hide_border=true)
 
+![Operating Systems](https://wakatime.com/share/@fynnpunkt/1cf9d436-1454-47ea-b968-a2a9e88571c1.svg)
 
 
 ---
