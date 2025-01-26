@@ -7,7 +7,7 @@
 ![Tools](https://skillicons.dev/icons?i=jquery,tailwind,nodejs&perline=50)
 
 # 🖥️ Software:
-![Software](https://skillicons.dev/icons?i=idea,phpstorm,webstorm,vscode&perline=50)
+![Software](https://skillicons.dev/icons?i=idea,phpstorm,webstorm,datagrip,vscode&perline=50)
 
 # 👨🏻‍💻 Programming Languages:
 ![Programming Languages](https://skillicons.dev/icons?i=js,html,css,php,java,mysql&perline=50)
