@@ -8,4 +8,5 @@
   - **GHGuessr** - Community Game for BastiGHG
   - **Linktrees** - For the influencers' social media platforms and current collaborations.
   - **Event Landing Pages** - Customised website for events
+  - **Data Extraction** - 
   - **much More...**
