@@ -11,5 +11,4 @@
 
 
 # ⌚ WakaTime:
-![Operating Systems](https://wakatime.com/badge/user/c85e0415-7f34-47fe-84c9-502ea9e5ad1a.svg)
- 
+[![wakatime](https://wakatime.com/badge/user/c85e0415-7f34-47fe-84c9-502ea9e5ad1a/project/2cb72b02-71b7-4bdd-be38-28fa40b94cea.svg)](https://wakatime.com/badge/user/c85e0415-7f34-47fe-84c9-502ea9e5ad1a/project/2cb72b02-71b7-4bdd-be38-28fa40b94cea) 
